@@ -59,34 +59,27 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
 
 export const PROJECTS: Project[] = [
   {
-    title: "Eco-Monitoring IoT System",
-    description: "A comprehensive IoT platform to monitor environmental data in real-time. Features a React dashboard, Node.js backend, and data collection from Raspberry Pi sensors.",
-    tags: ["React", "Node.js", "MongoDB", "IoT", "Raspberry Pi"],
-    imageUrl: "https://picsum.photos/seed/project1/600/400",
+    title: "Workshop Management System",
+    description: "A comprehensive web application designed to streamline the management of workshops and training sessions. Features include user registration, scheduling, and resource allocation. Built with React for the frontend and firebase for the backend.",
+    tags: ["React", "Firebase", "CSS"],
+    imageUrl: "assets/wms.png",
     liveUrl: "#",
     repoUrl: "#",
   },
   {
-    title: "AI-Powered Code Assistant",
-    description: "A web-based tool that leverages generative AI to help developers write, debug, and optimize code. Built with Next.js and Tailwind CSS for a seamless UX.",
-    tags: ["Next.js", "TypeScript", "AI/ML", "Tailwind CSS"],
-    imageUrl: "https://picsum.photos/seed/project2/600/400",
+    title: "Open CV Shape Detector",
+    description: "An AI-powered application that detects and classifies geometric shapes in images using OpenCV and machine learning algorithms. The project leverages Next.js for the frontend interface and TypeScript for type safety.",
+    tags: ["React", "TypeScript", "OpenCV", "Machine Learning"],
+    imageUrl: "assets/shape_detector.png",
     liveUrl: "#",
     repoUrl: "#",
   },
   {
-    title: "Decentralized Voting App",
-    description: "A secure and transparent voting application built on blockchain technology. The frontend is crafted with React, interacting with an Ethereum smart contract.",
-    tags: ["React", "Blockchain", "Solidity", "Ethers.js"],
-    imageUrl: "https://picsum.photos/seed/project3/600/400",
+    title: "Pi Value Viewer",
+    description: "A Web that displays the digits of Pi in real-time, fetching data from a backend service. Built with React and styled using Tailwind CSS for a responsive design.",
+    tags: ["React", "Tailwind CSS", "Node.js"],
+    imageUrl: "assets/pi_viewer.png",
     repoUrl: "#",
   },
-   {
-    title: "Smart Home Automation Hub",
-    description: "An open-source hub to control various smart home devices from a single, unified interface. The system runs on a central server and uses Arduino for custom device integrations.",
-    tags: ["Python", "Flask", "React", "Arduino", "MQTT"],
-    imageUrl: "https://picsum.photos/seed/project4/600/400",
-    liveUrl: "#",
-    repoUrl: "#",
-  },
+   
 ];
