@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { PERSONAL_INFO } from '../constants';
+import { PERSONAL_INFO } from './constants/constants';
 import AnimatedSection from './AnimatedSection';
 import { FaGithub, FaStar, FaCodeBranch, FaUserFriends } from 'react-icons/fa';
 

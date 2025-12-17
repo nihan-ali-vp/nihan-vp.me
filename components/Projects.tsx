@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { PROJECTS } from '../constants';
+import { PROJECTS } from './constants/constants';
 import type { Project } from '../types';
 import AnimatedSection from './AnimatedSection';
 import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';

@@ -1,5 +1,5 @@
 import React from 'react';
-import { PERSONAL_INFO } from '../constants';
+import { PERSONAL_INFO } from './constants/constants';
 import { FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
 import AnimatedSection from './AnimatedSection';
 

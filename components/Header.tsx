@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { PERSONAL_INFO } from '../constants';
+import { PERSONAL_INFO } from './constants/constants';
 import { FaBars, FaTimes } from 'react-icons/fa';
 
 const Header: React.FC = () => {
