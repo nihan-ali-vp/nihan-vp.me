@@ -3,6 +3,8 @@ import React from 'react';
 import type { SkillCategory, Project } from './types';
 import { SiTypescript, SiJavascript, SiPython, SiCplusplus, SiHtml5, SiCss3, SiReact, SiNodedotjs, SiExpress, SiMongodb, SiPostgresql, SiDocker, SiGit, SiArduino, SiRaspberrypi, SiNextdotjs, SiTailwindcss, SiVercel, SiLinux } from 'react-icons/si';
 
+{/* This file contains constant data used throughout the portfolio website, such as personal information, skills, and projects. */}
+
 export const PERSONAL_INFO = {
   name: "Nihan Ali",
   title: "Full-Stack Developer",
