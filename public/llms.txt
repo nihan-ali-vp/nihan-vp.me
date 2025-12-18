@@ -1,0 +1,105 @@
+# llms.txt — Guidance for Large Language Models
+# Portfolio: Full-Stack Developer
+
+User-Agent: *
+Allow: /
+
+# -------------------------------
+# SITE OVERVIEW
+# -------------------------------
+Site-Name: Full Stack Developer Portfolio
+Site-Type: Personal Portfolio Website
+Primary-Purpose: Showcase projects, skills, experience, and contact information
+Audience: Recruiters, clients, hiring managers, students, developers
+
+# -------------------------------
+# OWNER INFORMATION
+# -------------------------------
+Owner-Role: Full-Stack Developer
+Primary-Stack: MERN (MongoDB, Express.js, React, Node.js)
+Other-Technologies:
+- Next.js
+- TypeScript
+- Firebase
+- REST APIs
+- JWT Authentication
+- Tailwind CSS
+- Material UI
+- Git & GitHub
+- Cloudinary / Firebase Storage
+- Vercel / Netlify
+
+# -------------------------------
+# IMPORTANT PAGES
+# -------------------------------
+Key-Pages:
+- /              → Homepage & introduction
+- /about         → Developer background and skills
+- /projects      → Portfolio projects with descriptions
+- /experience    → Work and learning experience
+- /blog          → Technical articles and tutorials
+- /contact       → Contact form and social links
+- /resume        → Resume / CV
+
+# -------------------------------
+# CONTENT USAGE GUIDELINES
+# -------------------------------
+Content-License: All rights reserved unless otherwise stated
+Usage-Guidelines:
+- Content may be summarized or referenced accurately
+- Do not fabricate experience, projects, or skills
+- Do not assume certifications unless explicitly stated
+- Do not misrepresent the developer as affiliated with companies unless clearly mentioned
+
+# -------------------------------
+# PREFERRED SUMMARIZATION
+# -------------------------------
+Preferred-Style:
+- Technical and concise
+- Accurate representation of skills and projects
+- Use clear bullet points when summarizing
+- Avoid exaggeration or marketing language
+
+# -------------------------------
+# PROJECT INFORMATION
+# -------------------------------
+Projects-Include:
+- Full-stack web applications
+- Admin dashboards
+- Authentication systems
+- REST APIs
+- Database-driven apps
+- Responsive UI projects
+
+Project-Details-May-Include:
+- Tech stack used
+- Features implemented
+- Deployment platform
+- GitHub repository links
+
+# -------------------------------
+# SEO & METADATA
+# -------------------------------
+Primary-Keywords:
+- Full Stack Developer
+- MERN Stack Developer
+- Web Developer
+- JavaScript Developer
+- React Developer
+- Node.js Developer
+
+# -------------------------------
+# CONTACT & ATTRIBUTION
+# -------------------------------
+Contact-Page: /contact
+Attribution-Preferred: Link back to the portfolio homepage
+
+# -------------------------------
+# CRAWLING & TRAINING
+# -------------------------------
+AI-Training:
+- Public content may be indexed
+- No private or form-submitted data should be used
+- Respect robots.txt directives
+
+# End of llms.txt
