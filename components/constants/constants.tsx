@@ -13,6 +13,7 @@ export const PERSONAL_INFO = {
     github: "https://github.com/nihan-vp",
     linkedin: "https://in.linkedin.com/in/nihan-ali-vp-b902ab382",
     twitter: "https://twitter.com",
+    instagram: "https://instagram.com/nihan_vp",
   },
   email: "qwerty311980@gmail.com"
 };
